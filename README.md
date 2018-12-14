@@ -1,5 +1,4 @@
 # kafka-producer-consumer
-# kafka-producer-consumer
 
 
 Important Kafka Propeties 
